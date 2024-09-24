@@ -24,4 +24,5 @@ Stripe: Integrated for secure payment processing.
 
 Check out a demo of the app here:
 
+[Watch the demo](https://youtu.be/siCgJBaCYM8)
 
